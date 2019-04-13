@@ -5,14 +5,9 @@
       <router-link to="/pos" tag="li" exact>
         <li>
           <i class="icon iconfont icon-goumai"></i>
-<<<<<<< HEAD
           <div>点餐11cd1f1</div>
-=======
-          <div>点餐</div>
->>>>>>> 068b637cc4c0064f8f77be1438ce4b16c9626462
       </li>
       </router-link>
-
       <router-link to="/shop" tag="li">
         <li>
           <i class="icon iconfont icon-dianpu "></i>
