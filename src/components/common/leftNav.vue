@@ -16,7 +16,7 @@
       <router-link to="/shop" tag="li">
         <li>
           <i class="icon iconfont icon-dianpu "></i>
-          <div>店铺</div>
+          <div>店铺v</div>
       </li>
       </router-link>
 
