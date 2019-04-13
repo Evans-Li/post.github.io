@@ -5,7 +5,7 @@
       <router-link to="/pos" tag="li" exact>
         <li>
           <i class="icon iconfont icon-goumai"></i>
-          <div>点餐111f1</div>
+          <div>点餐11c1f1</div>
       </li>
       </router-link>
 
